@@ -1,4 +1,4 @@
-package rogne.ntnu.no.androidcar;
+package rogne.ntnu.no.cardroid;
 
 import org.junit.Test;
 

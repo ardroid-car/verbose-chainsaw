@@ -1,4 +1,4 @@
-package rogne.ntnu.no.androidcar;
+package rogne.ntnu.no.cardroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("rogne.ntnu.no.androidcar", appContext.getPackageName());
+        assertEquals("rogne.ntnu.no.cardroid", appContext.getPackageName());
     }
 }
